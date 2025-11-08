@@ -1,6 +1,6 @@
 ## ❄️ Small Update/Patch for "Project Seasons" ☀️
 
-This is a personal, temporary patch to address minor issues/compatibility with the excellent mod, **"Project Seasons"**.
+This is a personal, temporary patch to address minor issues with the excellent mod, **"Project Seasons"**.
 
 ---
 
