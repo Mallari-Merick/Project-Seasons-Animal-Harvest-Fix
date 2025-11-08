@@ -1,0 +1,7 @@
+name=[B42] Project Seasons - Animal Parts Fix
+id=Project_Seasons_B42_animalpartsfix
+authors=Mercs
+description=Fixed some animal parts not giving when harvesting.
+poster=poster.png
+modversion=0.0.1
+require=\Project_Seasons_B42
